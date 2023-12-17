@@ -1,6 +1,6 @@
-- 👋  Hi, I’m Yones Maghsoudie, known as Callmedecim
-- 👀  I’m interested in developing web pages
-- 🌱  I’m currently learning JS 
+- 👋  Hi, I’m Yones Maghsoudie, known as Callmedecim.
+- 👀  I’m interested in developing web pages.
+- 🌱  I’m currently learning Back-End.
 
 <!---
 callmedeci/callmedeci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
