@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @callmedeci
+- 👋  Hi, I’m Yones Maghsoudie, known as Callmedecim
 - 👀  I’m interested in developing web pages
 - 🌱  I’m currently learning JS 
 
