@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Yones Maghsoudie, known as Callmedecim.
-- 👀  I’m interested in developing web pages.
+- 👀  I’m interested in Web developing.
 - 🌱  I’m currently learning Back-End.
 
 <!---
